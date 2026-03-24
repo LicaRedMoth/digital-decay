@@ -7,6 +7,7 @@
 ;copyright "Released under terms of the MIT License"
 ;codetype lisp
 ;preview linear
+;debugbutton false
 
 ;; --- MAIN UI PARAMETERS ---
 ;control bitrate "Bitrate" float "kbps" 320.0 2.0 320.0
