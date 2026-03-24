@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/7b9c2f18-5fbc-4ba3-8a78-9c2dcc184e15
 
 ### Installation
 
-1. [Download](https://github.com/LicaRedMoth/digital-decay/blob/main/digital-delay.ny) the `digital-delay.ny` file.
+1. [Download](https://github.com/LicaRedMoth/digital-decay/blob/main/digital-decay.ny) the `digital-decay.ny` file.
 2. Open Audacity.
 3. Go to **Tools -> Nyquist Plugin Installer**.
 4. Select the downloaded file and click **Open**.
