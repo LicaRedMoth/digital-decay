@@ -1,4 +1,4 @@
-# Digital Decay (Audacity Nyquist Plugin)
+### Digital Decay (Audacity Nyquist Plugin)
 
 ![Image of Digital Decay](Image.png)
 
@@ -6,6 +6,23 @@ An experimental digital degradation and network transport simulator. Digital Dec
 
 ### Overview
 Built with plunderphonics aesthetics in mind, Digital Decay goes beyond standard bitcrushers. It dynamically simulates how digital audio breaks down when packets are lost in transit, when a codec is starved of data, or when a microphone capsule is overloaded. 
+
+---
+
+### Preview:
+Original "Everyday things" by The Patients:
+
+https://github.com/user-attachments/assets/76f4e1e0-41bc-4c71-a6bc-e42aeb369625
+
+Digital Decay (low bitrate):
+
+https://github.com/user-attachments/assets/a465248c-c05a-4a5b-834b-4edb181361de
+
+Digital Decay (DESTROY!):
+
+https://github.com/user-attachments/assets/7b9c2f18-5fbc-4ba3-8a78-9c2dcc184e15
+
+---
 
 ### Key Features:
 * **True Codec Starvation:** Injects colored noise *before* the MP3 compression algorithm, forcing the codec to choke and generate unpredictable artifacts.
